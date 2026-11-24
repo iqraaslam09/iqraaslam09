@@ -23,7 +23,7 @@ I'm building my foundation in software development, with a focus on C++, OOP, an
 - C++ (OOP, functions, arrays, basic data structures)
 - Data Structures & Introduction to Databases
 - Git & GitHub workflows
-- Python (beginner)
+- Java
 
 ## 📂 What you'll find here
 - C++ coursework and practice projects
